@@ -4,7 +4,8 @@
   "description": "потрібно встановити глобально сам TypeScript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
   },
   "keywords": [],
   "author": "",
